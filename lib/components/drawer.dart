@@ -47,7 +47,7 @@ class _MydrawerState extends State<Mydrawer> {
                 padding: const EdgeInsets.only(left: 8.0),
                 child: Listtile(
                     icon: Icons.home,
-                    text: 'S H O P',
+                    text: 'H O M E',
                     onTap: () => Navigator.push(
                         context,
                         MaterialPageRoute(

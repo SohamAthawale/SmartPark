@@ -18,12 +18,12 @@ class Mybottomnavbar extends StatelessWidget {
           tabMargin: const EdgeInsets.all(10),
           tabs: const [
             GButton(
-              icon: Icons.home_rounded,
-              text: 'Shop',
+              icon: Icons.map_outlined,
+              text: 'Map',
             ),
             GButton(
-              icon: Icons.shopping_cart_rounded,
-              text: 'Cart',
+              icon: Icons.location_on,
+              text: 'location',
             )
           ]),
     );

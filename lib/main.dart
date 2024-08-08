@@ -4,6 +4,7 @@ import 'package:firebase_core/firebase_core.dart';
 import 'package:voltage/firebase_options.dart';
 import 'package:voltage/services/auth/auth_service.dart';
 import 'package:provider/provider.dart';
+import 'package:google_maps_flutter/google_maps_flutter.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();

@@ -115,12 +115,12 @@ class _ProfileviewState extends State<Profileview> {
           ),
           Mytextbox(
             sectionname: "Username",
-            text: 'This is you you fucking idiot',
+            text: 'hello1234',
             onPressed: () => editfeild('username'),
           ),
           Mytextbox(
             sectionname: "Contact number",
-            text: 'Yoo why you want my phone no',
+            text: '1234567890',
             onPressed: () => editfeild('contact no'),
           ),
           Padding(
@@ -144,7 +144,7 @@ class _ProfileviewState extends State<Profileview> {
                     ),
                     Center(
                         child: Text(
-                      "Your Orders",
+                      "Parking History",
                       style: const TextStyle(
                           fontWeight: FontWeight.bold,
                           color: Colors.white,

@@ -41,7 +41,7 @@ class _HomepageState extends State<Homepage> {
                   alignment: Alignment.center,
                 ),*/
                   child: Text(
-                    "Voltage",
+                    "SmartPark",
                     style: TextStyle(fontWeight: FontWeight.bold, fontSize: 18),
                   )),
               IconButton(
